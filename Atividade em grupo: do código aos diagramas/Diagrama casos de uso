@@ -1,0 +1,4 @@
+O GestorPlano é responsável por abrir novos planos para os alunos e controlar o avanço de suas etapas.
+Cada Plano está associado a um Aluno, que pode ser do tipo AlunoComum ou AlunoPlanoFamilia.
+O sistema utiliza a interface Notificador para permitir diferentes formas de notificação, como NotificadorConsole.
+Dessa forma, o sistema organiza o gerenciamento dos planos e aplica conceitos de herança, polimorfismo e inversão de dependência.

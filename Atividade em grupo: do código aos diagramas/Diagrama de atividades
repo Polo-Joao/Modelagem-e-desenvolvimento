@@ -1,0 +1,2 @@
+O sistema inicia a Academia CorpoAtivo, cria um gestor de planos e dois tipos de alunos, demonstrando o cálculo de mensalidades. Em seguida, abre um plano, adiciona check-ins ao aluno e organiza outro aluno em uma turma. O gestor avança as etapas do plano até chegar à etapa final. Por último, o sistema testa operações inválidas, captura as exceções e exibe a quantidade total de planos cadastrados.
+

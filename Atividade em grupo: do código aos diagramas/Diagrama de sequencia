@@ -1,0 +1,4 @@
+O AppAcademiaCorpoAtivo solicita ao GestorPlano a abertura de um novo plano para determinado aluno.
+O GestorPlano cria um objeto Plano, que valida o valor da mensalidade e inicializa seu estado.
+Após a criação, o gestor utiliza o Notificador para informar que um novo plano foi registrado.
+Quando solicitado, o gestor chama avancar() no plano, que valida a etapa, atualiza seu estado e gera uma nova notificação.
